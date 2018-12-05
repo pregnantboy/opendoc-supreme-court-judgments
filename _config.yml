@@ -1,0 +1,15 @@
+title: Supreme Court Judgements
+remote_theme: opendocsg/opendoc-theme
+repository: opendocsg/opendoc-supreme-court-judgements
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
+section_order:
+  - README.md
+baseurl: ''
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search-staging.opendoc.sg
+styling_options:
+  primary_brand_color: '#8B4513'
+  logo_path: /assets/logo.png
+  opendoc_logo_path: /assets/images/logo-full.png
