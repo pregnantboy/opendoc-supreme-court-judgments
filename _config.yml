@@ -6,7 +6,7 @@ plugins:
   - jekyll-include-cache
 section_order:
   - README.md
-baseurl: ''
+baseurl: '/opendoc-supreme-court-judgements'
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
 styling_options:
