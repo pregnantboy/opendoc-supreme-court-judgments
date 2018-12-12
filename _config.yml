@@ -121,7 +121,7 @@ section_order:
   - 2018_SGHC_199.md
   - 2018_SGHC_201.md
   - README.md
-baseurl: /opendoc-supreme-court-judgements
+baseurl: ''
 server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
 styling_options:
