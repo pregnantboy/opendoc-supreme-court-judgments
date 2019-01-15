@@ -5,6 +5,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 section_order:
+  - 2019_SGHCF_1.md
+  - 2019_SGCA_4.md
   - 2019_SGHC(I)_1.md
   - 2019_SGCA_1.md
   - 2019_SGCA_2.md
