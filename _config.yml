@@ -5,6 +5,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 section_order:
+  - 2019_SGHC_25.md
+  - 2019_SGHC_26.md
+  - 2019_SGHC_23.md
+  - 2019_SGCA_9.md
+  - 2019_SGHC_24.md
   - 2019_SGHC_21.md
   - 2019_SGHC_20.md
   - 2019_SGHC_19.md
