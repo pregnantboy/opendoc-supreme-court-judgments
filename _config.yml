@@ -1,8 +1,7 @@
 title: Supreme Court Judgements
-remote_theme: opendocsg/opendoc-theme
+remote_theme: opendocsg/opendoc-theme@v2
 repository: opendocsg/opendoc-supreme-court-judgements
 plugins:
-  - jekyll-seo-tag
   - jekyll-include-cache
 section_order:
   - 2018_SGHCF_19.md
