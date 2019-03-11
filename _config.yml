@@ -4,7 +4,7 @@ repository: opendocsg/opendoc-supreme-court-judgements
 plugins:
   - jekyll-include-cache
 baseurl: ''
-server_PROD: 'https://staging.opendoc.sg'
+server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
 styling_options:
   primary_brand_color: '#8B4513'
