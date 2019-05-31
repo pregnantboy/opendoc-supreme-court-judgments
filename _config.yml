@@ -7,12 +7,13 @@ baseurl: ''
 server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
 fast_build: true
-
 styling_options:
   primary_brand_color: '#8B4513'
   logo_path: /assets/ic-logo.png
   opendoc_logo_path: /assets/images/logo-full.png
 document_order:
+  - 2019_SGHC_133
+  - 2019_SGHC_136
   - 2019_SGHC_135
   - 2019_SGCA_38
   - 2019_SGCA_37
