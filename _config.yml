@@ -1,11 +1,13 @@
 title: Supreme Court Judgements
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@fast-build
 repository: opendocsg/opendoc-supreme-court-judgements
 plugins:
   - jekyll-include-cache
 baseurl: ''
 server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
+fast_build: true
+
 styling_options:
   primary_brand_color: '#8B4513'
   logo_path: /assets/ic-logo.png
