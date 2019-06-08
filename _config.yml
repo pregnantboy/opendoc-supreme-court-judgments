@@ -13,6 +13,8 @@ styling_options:
   logo_path: /assets/ic-logo.png
   opendoc_logo_path: /assets/images/logo-full.png
 document_order:
+  - 2019_SGHC_144
+  - 2019_SGHC_143
   - 2019_SGHC(I)_8
   - 2019_SGHCF_13
   - 2019_SGHC_138
