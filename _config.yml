@@ -3,7 +3,7 @@ remote_theme: opendocsg/opendoc-theme@v2
 repository: opendocsg/opendoc-supreme-court-judgments
 plugins:
   - jekyll-include-cache
-baseurl: ''
+baseurl: '/opendoc-supreme-court-judgments'
 server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
 fast_build: true
