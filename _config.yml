@@ -7,7 +7,7 @@ baseurl: ''
 server_PROD: 'https://search.opendoc.sg'
 server_DEV: 'https://search-staging.opendoc.sg'
 fast_build: true
-offline_search_only: true
+offline_search_only: false
 styling_options:
   primary_brand_color: '#8B4513'
   logo_path: /assets/ic-logo.png
