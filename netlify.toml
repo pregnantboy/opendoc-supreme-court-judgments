@@ -5,7 +5,9 @@
 
     # Default build command.
     command = '''
-                jekyll build
+                jekyll build && \
+                chmod +x ./_site/assets/startup/build.sh && \
+                ./_site/assets/startup/build.sh
               '''
     environment = { JEKYLL_ENV = "development" }
 
